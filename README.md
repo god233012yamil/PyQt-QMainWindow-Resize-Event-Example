@@ -2,7 +2,7 @@
 This code shows how to implement the resize event for a "QMainWindow" class in PyQt.
 
 To capture the resize event of a QMainWindow class, the method resizeEvent() method
-must be overrride.
+must be overrrided.
 
 The resize event is called whenever the window is resized in the windowing system, either directly 
 through the windowing system acknowledging a setGeometry() or resize() request, or indirectly through 
